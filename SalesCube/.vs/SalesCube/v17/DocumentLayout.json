@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|solutionrelative:SalesCube\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Sales Channel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|solutionrelative:SalesCube\\Dim Sales Channel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|solutionrelative:SalesCube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|solutionrelative:SalesCube\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\SalesCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7FB5BBF6-6380-4B4D-A669-A74C56075033}|SalesCube\\SalesCube.dwproj|solutionrelative:SalesCube\\SalesCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "SalesCube\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "SalesCube\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T06:29:14.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Product.dim",
+              "RelativeDocumentMoniker": "SalesCube\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Product.dim [Design]",
+              "RelativeToolTip": "SalesCube\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T06:29:07.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Sales Channel.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Sales Channel.dim",
+              "RelativeDocumentMoniker": "SalesCube\\Dim Sales Channel.dim",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Sales Channel.dim [Design]",
+              "RelativeToolTip": "SalesCube\\Dim Sales Channel.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T16:57:31.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesCube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\SalesCube.cube",
+              "RelativeDocumentMoniker": "SalesCube\\SalesCube.cube",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\SalesCube.cube [Design]",
+              "RelativeToolTip": "SalesCube\\SalesCube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T16:05:51.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Region.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Region.dim",
+              "RelativeDocumentMoniker": "SalesCube\\Dim Region.dim",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\dwbi_assignment1\\SalesCube\\SalesCube\\Dim Region.dim [Design]",
+              "RelativeToolTip": "SalesCube\\Dim Region.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T16:01:19.091Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
